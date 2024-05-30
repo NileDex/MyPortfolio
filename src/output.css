@@ -1,0 +1,14 @@
+body {
+  background: rgb(201, 201, 201);
+  /* Your desired background color */
+  margin: 0;
+  /* Remove default margin */
+  padding: 0;
+  /* Remove default padding */
+}
+
+.navbar{
+  display: flex;
+  width: 400px;
+  border: 1px solid black;
+}
