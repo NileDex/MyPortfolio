@@ -2,10 +2,7 @@
 
 body {
   font-family: "Dosis", sans-serif;
-  background-image: linear-gradient(45deg,
-      rgba(85, 16, 0, 0.292),
-      rgba(0, 117, 113, 0.267)),
-    url("https://t4.ftcdn.net/jpg/04/92/22/93/240_F_492229389_5ve1bCKgYrLRHpCj3o4FAzz60efaZgG0.jpg");
+  background-image: url("https://t4.ftcdn.net/jpg/04/92/22/93/240_F_492229389_5ve1bCKgYrLRHpCj3o4FAzz60efaZgG0.jpg");
   background-size: cover;
   background-position: center;
   height:auto;
